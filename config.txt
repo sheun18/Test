@@ -1,0 +1,4 @@
+"AadClientId": "7c44b0a7-8bff-4b4c-9e18-7f5c45016d40",
+"AadSecret": "3xs8Q~xL8JhB.5pPawHsI48WnqaSYWZhU7rMya4e",
+"AadTenantDomain": "iagsharedgrouptenancyuat01.onmicrosoft.com",
+"AadTenantId": "1a25f7a3-d1f6-4625-b9f9-15df63b78f1a",
